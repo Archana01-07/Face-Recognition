@@ -36,3 +36,4 @@ Visualization hotkeys:
 *   f - toggle frames per second
 *   s - save image face detections to id folder
 
+"# Face-Recognition" 
